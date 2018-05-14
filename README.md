@@ -9,3 +9,6 @@ ff
 hh
 gg
 mm
+nn
+vv
+sycn ok;
