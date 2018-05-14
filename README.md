@@ -12,3 +12,5 @@ mm
 nn
 vv
 sycn ok;
+
+bat start:
