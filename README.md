@@ -14,3 +14,5 @@ vv
 sycn ok;
 
 bat start:
+
+diff
