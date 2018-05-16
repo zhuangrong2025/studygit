@@ -18,3 +18,5 @@ bat start:
 diff
 
 bat update
+
+remote get http
