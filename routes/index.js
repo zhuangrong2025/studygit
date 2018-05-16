@@ -14,9 +14,9 @@ var openApp = function(){
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: '-pm223' });
+  res.render('index', { title: '-自动更新代码' });
+  //执行2.bat--服务器端自动更新代码
   openApp();
-  console.log('正在执行bat文件--git pull');
 });
 
 
