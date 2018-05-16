@@ -20,3 +20,5 @@ diff
 bat update
 
 remote get http
+
+location get http
