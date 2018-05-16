@@ -14,7 +14,7 @@ var openApp = function(){
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express1122-pm22' });
+  res.render('index', { title: '-pm223' });
   openApp();
   console.log('正在执行bat文件--git pull');
 });
