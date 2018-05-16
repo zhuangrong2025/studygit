@@ -16,3 +16,5 @@ sycn ok;
 bat start:
 
 diff
+
+bat update
