@@ -14,7 +14,7 @@ var openApp = function(){
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: '-自动更新代码' });
+  res.render('index', { title: '-自动更新代码22222' });
   //执行2.bat--服务器端自动更新代码
   openApp();
 });
