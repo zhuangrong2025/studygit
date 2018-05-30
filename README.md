@@ -14,6 +14,7 @@
 
 
 {% raw %}
+https://cdn.bootcss.com/vue/2.5.17-beta.0/vue.min.js
 <div id="app" class="demo">
   {{ message }}
 </div>
